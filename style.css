@@ -1,0 +1,61 @@
+.container{
+    
+    display: flex;
+    background-color: rgb(231, 240, 244);
+    padding: 10px;
+    height: 450px;
+     
+    
+}
+
+.container img 
+{
+
+    height: 350px;
+    width: 300px;
+    padding-top: 60px;
+    
+}
+.matn{
+    padding: 70px;
+}
+p{
+    font-size: 30px;
+    text-align: justify;
+}
+.button{
+    
+    display: flex;
+    gap: 50px;
+    
+}
+.sarlavha{
+    font-size: 50px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(237, 100, 114);
+    font-weight: bold;
+    
+}
+a{
+    
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.btr{
+    
+    background-color: rgb(245, 245, 249);
+    height: 200px;
+    
+    
+    
+}
+.royxat{
+    padding: 60px;
+    
+}
+
